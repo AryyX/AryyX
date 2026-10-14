@@ -1,16 +1,16 @@
+<picture> <source media="(prefers-color-scheme: dark)" srcset="./assets/banner-dark.svg"> <img alt="AryX — Software engineer" src="./assets/banner-light.svg" width="100%"> </picture>
+
 ## Hi there 👋
 
-<!--
-**AryyX/AryyX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **AryX**, a software engineer based in France.
 
-Here are some ideas to get you started:
+I build small apps that make my own day-to-day life easier. I love trying new technologies and using them to improve my apps. Lately I’ve been exploring how AI can upgrade my workflows. 
+When I'm not coding, you’ll find me on a court, at the gym, or behind an instrument.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Right now
+
+I'm building a workout tracker for my own training (API + mobile app, private for now since it's tailored to my needs). New projects will land here soon.
+
+### Toolbox
+ 
+`PHP` · `TypeScript` · `PostgreSQL` · `React Native` · `Docker` · `Git` . `Claude` 
