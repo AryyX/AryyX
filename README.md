@@ -1,4 +1,7 @@
-<picture> <source media="(prefers-color-scheme: dark)" srcset="./assets/banner-dark.svg"> <img alt="AryX — Software engineer" src="./assets/banner-light.svg" width="100%"> </picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./banner-dark.svg">
+  <img alt="AryX — Software engineer" src="./banner-light.svg" width="100%">
+</picture>
 
 ## Hi there 👋
 
@@ -13,4 +16,4 @@ I'm building a workout tracker for my own training (API + mobile app, private fo
 
 ### Toolbox
  
-`PHP` · `TypeScript` · `PostgreSQL` · `React Native` · `Docker` · `Git` . `Claude` 
+`PHP` · `TypeScript` · `PostgreSQL` · `React Native` · `Docker` · `Git` · `Claude` 
